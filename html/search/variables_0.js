@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['_24admins_0',['$admins',['../admin_8php.html#ae508e19115d8c43284ba5177298a107b',1,'admin.php']]],
+  ['_24allmaterials_1',['$allMaterials',['../admin_8php.html#a78f1e4d5b03d05ae9876aac3991b1e97',1,'admin.php']]],
+  ['_24currentpage_2',['$currentPage',['../admin_8php.html#af64cef3e8e7fe1dc79ff3293c12fb4cb',1,'admin.php']]],
+  ['_24currentpageuser_3',['$currentPageUser',['../admin_8php.html#a19e63a6719bad04bc654d8fe5cfe2b1d',1,'admin.php']]],
+  ['_24data_4',['$data',['../admin_8php.html#a6efc15b5a2314dd4b5aaa556a375c6d6',1,'$data:&#160;admin.php'],['../get__materials_8php.html#aa4b3f41206c62db5abdb88a60f4c2b4e',1,'$data:&#160;get_materials.php'],['../update__user__data_8php.html#ae1e87a196310fb83c5bb1a341b1b4223',1,'$data:&#160;update_user_data.php']]],
+  ['_24datafile_5',['$dataFile',['../admin_8php.html#a3eb131cb81185b2f7ed7e2983fcae936',1,'$dataFile:&#160;admin.php'],['../update__user__data_8php.html#a583889b3dd5b0f8444600cc4fb88df22',1,'$dataFile:&#160;update_user_data.php']]],
+  ['_24displayedmaterials_6',['$displayedMaterials',['../admin_8php.html#a0fc385fd68dc125049b4d047d274c71a',1,'admin.php']]],
+  ['_24itemsperpage_7',['$itemsPerPage',['../admin_8php.html#ac2db7d1437a669295d6eaa6cf10069bf',1,'$itemsPerPage:&#160;admin.php'],['../get__materials_8php.html#a12a028ce00879e8088b03511538cb399',1,'$itemsPerPage:&#160;get_materials.php']]],
+  ['_24materials_8',['$materials',['../admin_8php.html#a2e685401bc9d8b42ae8760bedbb1392a',1,'$materials:&#160;admin.php'],['../get__materials_8php.html#a2e685401bc9d8b42ae8760bedbb1392a',1,'$materials:&#160;get_materials.php']]],
+  ['_24materialsfile_9',['$materialsFile',['../admin_8php.html#a1de0b9ef8956b35fc59f4c61ee7b681e',1,'admin.php']]],
+  ['_24newname_10',['$newName',['../update__user__data_8php.html#ab5c83914160c5280fa2a16159bc15f30',1,'update_user_data.php']]],
+  ['_24page_11',['$page',['../get__materials_8php.html#a0a44e6760141442bb439b1ab1395d8ff',1,'get_materials.php']]],
+  ['_24regularusers_12',['$regularUsers',['../admin_8php.html#a2f2dbed9e7ce4391b91e7396ae87fa42',1,'admin.php']]],
+  ['_24section_13',['$section',['../get__materials_8php.html#ab43f8e6991eef502a47086fd771e6c94',1,'get_materials.php']]],
+  ['_24startindex_14',['$startIndex',['../admin_8php.html#a207047d38e1db4b0c58922ca46ba1cd9',1,'$startIndex:&#160;admin.php'],['../get__materials_8php.html#a207047d38e1db4b0c58922ca46ba1cd9',1,'$startIndex:&#160;get_materials.php']]],
+  ['_24totalitems_15',['$totalItems',['../admin_8php.html#a0685e0d354f4fab5beb6a724782234fc',1,'$totalItems:&#160;admin.php'],['../get__materials_8php.html#af6ced6d07297ff5f6ca83ea6d8c0d575',1,'$totalItems:&#160;get_materials.php']]],
+  ['_24totalpages_16',['$totalPages',['../admin_8php.html#a9d270d95ca53a5ae61ad917752416d12',1,'$totalPages:&#160;admin.php'],['../get__materials_8php.html#a9d270d95ca53a5ae61ad917752416d12',1,'$totalPages:&#160;get_materials.php']]],
+  ['_24totalpagesforu_17',['$totalPagesForU',['../admin_8php.html#a5863e0af446738a0fdecd8fde69090f7',1,'admin.php']]],
+  ['_24totalusers_18',['$totalUsers',['../admin_8php.html#a6e583bf84937b4416151f98d768a2115',1,'admin.php']]],
+  ['_24updated_19',['$updated',['../update__user__data_8php.html#a678b5330c1f5a3ef56c1faa7b501d2af',1,'update_user_data.php']]],
+  ['_24uploaddirectory_20',['$uploadDirectory',['../admin_8php.html#a0226b5fa357adcccf3ab459aaf3f8631',1,'admin.php']]],
+  ['_24user_21',['$user',['../get__user__data_8php.html#a00d86f32a38686e9b027065c03a5fa5e',1,'get_user_data.php']]],
+  ['_24users_22',['$users',['../admin_8php.html#a28005d22fa7ef2dfe215ad886b497d9c',1,'admin.php']]],
+  ['_24usersperpage_23',['$usersPerPage',['../admin_8php.html#a63f6b33ad7606c524815920871d86969',1,'admin.php']]],
+  ['_24userstoshow_24',['$usersToShow',['../admin_8php.html#a02921360c7e6b1ef230b6ff09348c89d',1,'admin.php']]]
+];
